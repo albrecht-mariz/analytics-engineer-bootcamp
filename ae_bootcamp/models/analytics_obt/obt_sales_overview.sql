@@ -1,4 +1,5 @@
 WITH source AS (
+    
 select 
     c.customer_id,
     c.company           as customer_company,
